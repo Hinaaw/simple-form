@@ -1,0 +1,47 @@
+h1{
+  text-align: center;
+}
+
+form{
+
+ margin: auto;
+ box-sizing: border-box;
+  border:2px rgb(21, 255, 0) solid;
+  border-radius: 5px;
+  background-color:rgb(145, 204, 204);
+  width: 60%;
+ height:50%;
+ text-align: left;
+ 
+}
+.label{
+  font-style: bold;
+ font-size: 20px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+  color:rgb(51, 9, 240);
+  padding: 15px;
+  display: inline-block;
+  width: 20%;
+ 
+}
+
+.input{
+  height:25px;
+  width: 50%;
+ 
+  margin:10px;
+  padding:3px;
+}
+input[type=radio],input[type=checkbox]{
+  
+  margin:10px;
+}
+
+button{
+background-color: mediumslateblue;
+  margin:10px;
+ align-content: center;
+  width:20%;
+  height: 30px;
+  margin-left: 40%;
+}
